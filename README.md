@@ -1,70 +1,88 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Getting Started with Mobile Data Selling App
+
+This project was prepared to manage and sell mobile data packages (MB/GB) quickly, efficiently, and in real-time.
+
+This system can help you offer data packages across different carriers, register purchases, track deliveries, and organize customer requests smoothly.
+
+Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+npm start
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Runs the mobile data sales dashboard in development mode.
+Open http://localhost:3000 in your browser to view and manage data packages, customers, and transactions.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The page will reload automatically as you update information.
+You may also see any system warnings in the console.
 
-### `npm test`
+npm test
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Launches the data-transaction test runner in interactive watch mode.
+See the section about running tests for more details about testing your sales operations and package delivery logic.
 
-### `npm run build`
+npm run build
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Builds the app for production to the build folder.
+It bundles the mobile data sales system in production mode and optimizes it for best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The build is minified and the filenames include hashes.
+Your platform is ready to be deployed and used to sell data packages to customers!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about deployment for more information.
 
-### `npm run eject`
+npm run eject
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Note: this is a one-way operation. Once you eject, you can't go back!
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you aren’t satisfied with the default configuration of the sales system — pricing logic, carrier rules, delivery modules, or UI — you can eject at any time.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+This command will copy every configuration file and all dependencies (like Webpack, Babel, ESLint, etc.) directly into your project, giving you full control over all mobile-data-related behaviors.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+All commands except eject will continue to work normally, but they will use your custom configurations.
+At this point, you fully control how your data-selling platform behaves.
 
-## Learn More
+You never need to use eject.
+The default setup works perfectly for small and medium data-selling operations, and you shouldn’t feel pressured to change it.
+However, we understand some businesses require deeper customization.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Learn More
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+You can learn more about managing mobile data sales and customizing your system in the documentation.
 
-### Code Splitting
+To learn more about improving your sales flow and customer handling, check out additional online resources.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Code Splitting
 
-### Analyzing the Bundle Size
+This section has moved here:
+https://facebook.github.io/create-react-app/docs/code-splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Analyzing the Bundle Size
 
-### Making a Progressive Web App
+This section has moved here:
+https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Making a Progressive Web App
 
-### Advanced Configuration
+This section has moved here:
+https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Advanced Configuration
 
-### Deployment
+This section has moved here:
+https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Deployment
 
-### `npm run build` fails to minify
+This section has moved here:
+https://facebook.github.io/create-react-app/docs/deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+npm run build fails to minify
+
+This section has moved here:
+https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
